@@ -11,7 +11,7 @@
       "configDialog2": "如果你只有選擇板子你可以編譯，但不能上傳 Sketch",
       "configDialogTitle": "選擇其他電路板或通訊埠",
       "couldNotFindPreviouslySelected": "在安装的平台{1}中找不到以前選擇的開發板{0}。請手動選擇要使用的開發板。你想現在重新選擇它吗？",
-      "disconnected": "Disconnected",
+      "disconnected": "斷開連接",
       "getBoardInfo": "取得開發板資訊",
       "inSketchbook": "(在草稿資料夾中)",
       "installManually": "手動安裝",
@@ -23,7 +23,7 @@
       "platformMissing": "選擇的'{0}'開發版平台並未安裝",
       "pleasePickBoard": "請選擇要連接的開發版",
       "port": "1{0} 埠",
-      "portLabel": "Port: {0}",
+      "portLabel": "端口: {0}",
       "programmer": "燒錄器",
       "reselectLater": "請晚一點再選擇",
       "selectBoard": "選擇開發版",
@@ -36,6 +36,7 @@
     "boardsManager": "開發板管理器",
     "bootloader": {
       "burnBootloader": "燒錄 Bootloader",
+      "burningBootloader": "正在燒錄引導程式...",
       "doneBurningBootloader": "Bootloader 燒錄完成"
     },
     "burnBootloader": {
@@ -63,7 +64,7 @@
       "mouseError": "'Mouse' not found. Does your sketch include the line '#include <Mouse.h>'?"
     },
     "cloud": {
-      "account": "Account",
+      "account": "帳戶",
       "chooseSketchVisibility": "選擇草稿的能見度：",
       "connected": "已連接",
       "continue": "繼續",
@@ -95,7 +96,7 @@
       "signIn": "登入",
       "signInToCloud": "登入Arduino Cloud",
       "signOut": "登出",
-      "sync": "Sync",
+      "sync": "同步",
       "syncEditSketches": "同步和編輯您的Arduino Clou草稿",
       "visitArduinoCloud": "前往Arduino Cloud建立雲端草稿。"
     },
@@ -298,7 +299,7 @@
       "newLineCarriageReturn": "兩者都是NL和CR",
       "noLineEndings": "沒有斷行符號",
       "notConnected": "未有連接，請選擇開發板、埠以自動連接",
-      "openSerialPlotter": "Serial Plotter",
+      "openSerialPlotter": "串口繪圖視窗",
       "timestamp": "時戳/時間戳記",
       "toggleTimestamp": "切換時戳"
     },
@@ -306,6 +307,7 @@
       "archiveSketch": "儲存草稿",
       "cantOpen": "命名為\"{0}\"的資料夾已存在。無法開啟草稿。",
       "close": "你確定要關閉 Sketch？",
+      "compile": "Compiling sketch...",
       "configureAndUpload": "組態配置並上傳",
       "createdArchive": "已創建文件{0}。",
       "doneCompiling": "編譯完成",
@@ -327,6 +329,7 @@
       "titleSketchbook": "草稿資料夾",
       "upload": "上傳",
       "uploadUsingProgrammer": "使用燒錄器上傳",
+      "uploading": "上傳...",
       "userFieldsNotFoundError": "找不到已連接開發版中的用戶字段",
       "verify": "驗證",
       "verifyOrCompile": "驗證/編譯"
@@ -355,7 +358,7 @@
       "daemonOffline": "CLI 命令列常駐程式離線",
       "offline": "離線",
       "quitMessage": "任何沒有儲存的修改將不會被儲存",
-      "quitTitle": "Are you sure you want to quit?"
+      "quitTitle": "你確定要退出嗎？"
     },
     "debug": {
       "start": "開始 ....",

@@ -36,6 +36,7 @@
     "boardsManager": "Borden Beheerder",
     "bootloader": {
       "burnBootloader": "Bootloader branden",
+      "burningBootloader": "Burning bootloader...",
       "doneBurningBootloader": "Klaar met het branden van de bootloader."
     },
     "burnBootloader": {
@@ -306,6 +307,7 @@
       "archiveSketch": "Archiveer Schets",
       "cantOpen": "Er bestaat al een map met de naam \"{0}\". Kan schets niet openen.",
       "close": "Weet je zeker dat je de schets wilt sluiten?",
+      "compile": "Compiling sketch...",
       "configureAndUpload": "Configureren en uploaden",
       "createdArchive": "Archief '{0}' gemaakt.",
       "doneCompiling": "Klaar met compileren.",
@@ -327,6 +329,7 @@
       "titleSketchbook": "Schetsboek",
       "upload": "Uploaden",
       "uploadUsingProgrammer": "Uploaden met behulp van Programmeerapparaat",
+      "uploading": "Uploading...",
       "userFieldsNotFoundError": "Kan gebruiker veld van verbonden bord niet vinden",
       "verify": "Verifiëren",
       "verifyOrCompile": "Verifiëren/Compileren"

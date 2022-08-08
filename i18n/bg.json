@@ -36,6 +36,7 @@
     "boardsManager": "Мениджър на платки",
     "bootloader": {
       "burnBootloader": "Запишете буутлоудъра",
+      "burningBootloader": "Burning bootloader...",
       "doneBurningBootloader": "Записването на буутлоудъра приключи."
     },
     "burnBootloader": {
@@ -306,6 +307,7 @@
       "archiveSketch": "Архивирай скица",
       "cantOpen": "Папка с име „{0}“ вече съществува. Не може да се отвори скица.",
       "close": "Наистина ли искате да затворите скицата?",
+      "compile": "Compiling sketch...",
       "configureAndUpload": "Конфигуриране и качване",
       "createdArchive": "Създаден е архив „{0}“.",
       "doneCompiling": "Готово е компилирането.",
@@ -327,6 +329,7 @@
       "titleSketchbook": "Скицник",
       "upload": "Качване",
       "uploadUsingProgrammer": "Качване с помощта на програмист",
+      "uploading": "Uploading...",
       "userFieldsNotFoundError": "Не мога да намеря потребителски полета за свързаната платка",
       "verify": "Потвърдете",
       "verifyOrCompile": "Проверете/компилирайте"

@@ -36,6 +36,7 @@
     "boardsManager": "ボードマネージャ",
     "bootloader": {
       "burnBootloader": "ブートローダを書き込む",
+      "burningBootloader": "Burning bootloader...",
       "doneBurningBootloader": "ブートローダの書き込みが完了しました。"
     },
     "burnBootloader": {
@@ -306,6 +307,7 @@
       "archiveSketch": "スケッチをアーカイブする",
       "cantOpen": "「{0}」というフォルダはすでに存在します。スケッチを開けません。",
       "close": "本当にスケッチを閉じますか？",
+      "compile": "Compiling sketch...",
       "configureAndUpload": "構成と書き込み",
       "createdArchive": "アーカイブ'{0}'を作成しました。",
       "doneCompiling": "コンパイル完了。",
@@ -327,6 +329,7 @@
       "titleSketchbook": "スケッチブック",
       "upload": "書き込み",
       "uploadUsingProgrammer": "書き込み装置を使って書き込む",
+      "uploading": "Uploading...",
       "userFieldsNotFoundError": "接続されたボードのユーザーフィールドが見つかりません。",
       "verify": "検証",
       "verifyOrCompile": "検証・コンパイル"

@@ -36,6 +36,7 @@
     "boardsManager": "Kart Yöneticisi",
     "bootloader": {
       "burnBootloader": "Bootloader'ı Yükle",
+      "burningBootloader": "Bootloader yükleniyor...",
       "doneBurningBootloader": "Bootloader yüklemesi bitti."
     },
     "burnBootloader": {
@@ -306,6 +307,7 @@
       "archiveSketch": "Eskizi Arşivle",
       "cantOpen": "\"{0}\" klasörü zaten mevcut. Eskiz açılamadı.",
       "close": "Eskizi kapatmak istediğinizden emin misiniz?",
+      "compile": "Eskiz derleniyor...",
       "configureAndUpload": "Ayarla ve Yükle",
       "createdArchive": "'{0}' arşivi oluşturuldu.",
       "doneCompiling": "Derleme bitti.",
@@ -327,6 +329,7 @@
       "titleSketchbook": "Eskiz Defteri",
       "upload": "Yükle",
       "uploadUsingProgrammer": "Programlayıcı Kullanarak Yükle",
+      "uploading": "Yükleniyor...",
       "userFieldsNotFoundError": "Bağlı kart için kullanıcı alanları bulunamadı",
       "verify": "Doğrula",
       "verifyOrCompile": "Doğrula/Derle"

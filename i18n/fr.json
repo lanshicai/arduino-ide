@@ -36,6 +36,7 @@
     "boardsManager": "Gestionnaire de carte",
     "bootloader": {
       "burnBootloader": "Graver la séquence d'initialisation",
+      "burningBootloader": "Burning bootloader...",
       "doneBurningBootloader": "Le bootloader à été gravé."
     },
     "burnBootloader": {
@@ -306,6 +307,7 @@
       "archiveSketch": "Archiver le croquis",
       "cantOpen": "Un dossier nommé « {0} » existe déjà. Impossible d''ouvrir le croquis.",
       "close": "Êtes-vous sûr de vouloir fermer ce croquis ?",
+      "compile": "Compiling sketch...",
       "configureAndUpload": "Configurer et téléverser",
       "createdArchive": "Archive créer '{0}'",
       "doneCompiling": "Compilation terminée.",
@@ -327,6 +329,7 @@
       "titleSketchbook": "Carnet de croquis",
       "upload": "Téléverser",
       "uploadUsingProgrammer": "Téléverser en utilisant un programmateur",
+      "uploading": "Uploading...",
       "userFieldsNotFoundError": "Impossible de trouver un champ utilisateur pour les cartes connectés",
       "verify": "Vérifier",
       "verifyOrCompile": "Vérifier / Compiler"

@@ -36,6 +36,7 @@
     "boardsManager": "Gerenciador de Placas",
     "bootloader": {
       "burnBootloader": "Gravar bootloader",
+      "burningBootloader": "Burning bootloader...",
       "doneBurningBootloader": "Feita a gravação do bootloader."
     },
     "burnBootloader": {
@@ -306,6 +307,7 @@
       "archiveSketch": "Arquivar Sketch",
       "cantOpen": "Directoria chamada \"{0}\" já existe. Não é possível abrir o rascunho.",
       "close": "Tem certeza que deseja fechar o sketch?",
+      "compile": "Compiling sketch...",
       "configureAndUpload": "Configurar e Fazer Envio",
       "createdArchive": "Arquivo criado '{0}'.",
       "doneCompiling": "Compilação concluída.",
@@ -327,6 +329,7 @@
       "titleSketchbook": "Sketchbook",
       "upload": "Enviar usando Programador",
       "uploadUsingProgrammer": "Enviar Usando Programador",
+      "uploading": "Uploading...",
       "userFieldsNotFoundError": "Não é possível encontrar dados de usuário para placa conectada",
       "verify": "Verificar",
       "verifyOrCompile": "Verificar/Compilar"

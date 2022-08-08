@@ -36,6 +36,7 @@
     "boardsManager": "Plaka kudeatzailea",
     "bootloader": {
       "burnBootloader": "Kargatu abiarazte-kudeatzailea",
+      "burningBootloader": "Burning bootloader...",
       "doneBurningBootloader": "Abiarazte-kudeatzailearen karga burutu da."
     },
     "burnBootloader": {
@@ -306,6 +307,7 @@
       "archiveSketch": "Artxibatu programa",
       "cantOpen": "\"{0}\" izeneko karpeta badago dagoeneko. Ezin da programa ireki.",
       "close": "Ziur zaude programa itxi nahi duzula?",
+      "compile": "Compiling sketch...",
       "configureAndUpload": "Konfiguratu eta kargatu",
       "createdArchive": "'{0}' artxiboa sortu da.",
       "doneCompiling": "Konpilazioa burutu da.",
@@ -327,6 +329,7 @@
       "titleSketchbook": "Programa bilduma",
       "upload": "Kargatu",
       "uploadUsingProgrammer": "Kargatu programatzailea erabiliz",
+      "uploading": "Uploading...",
       "userFieldsNotFoundError": "Ezin dira erabiltzaile eremuak aurkitu konektatutako plakarentzat",
       "verify": "Egiaztatu",
       "verifyOrCompile": "Egiaztatu/Konpilatu"

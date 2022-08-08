@@ -36,6 +36,7 @@
     "boardsManager": "Управљач плочама",
     "bootloader": {
       "burnBootloader": "Burn Bootloader",
+      "burningBootloader": "Burning bootloader...",
       "doneBurningBootloader": "Done burning bootloader."
     },
     "burnBootloader": {
@@ -306,6 +307,7 @@
       "archiveSketch": "Архивирај рад",
       "cantOpen": "Директоријум \"{0}\" већ постоји. Није могуће отворити рад.",
       "close": "Да ли желиш да затвориш рад?",
+      "compile": "Compiling sketch...",
       "configureAndUpload": "Конфигуриши и спусти",
       "createdArchive": "Направљена архива '{0}'.",
       "doneCompiling": "Превођење завршено.",
@@ -327,6 +329,7 @@
       "titleSketchbook": "Радна свеска",
       "upload": "Спусти",
       "uploadUsingProgrammer": "Спусти помоћу програмера",
+      "uploading": "Uploading...",
       "userFieldsNotFoundError": "Није могуће пронаћи корисничка поља за повезану плочу.",
       "verify": "Провјери",
       "verifyOrCompile": "Провјери/Преведи"

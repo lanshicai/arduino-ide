@@ -36,6 +36,7 @@
     "boardsManager": "Gestore schede",
     "bootloader": {
       "burnBootloader": "Scrivi il bootloader",
+      "burningBootloader": "Burning bootloader...",
       "doneBurningBootloader": "La scritture de bootloader è terminata."
     },
     "burnBootloader": {
@@ -306,6 +307,7 @@
       "archiveSketch": "Archivia sketch",
       "cantOpen": "Una cartella di nome \"{0}\" esiste già. Impossibile aprire lo sketch.",
       "close": "Sei sicuro di voler chiudere lo sketch?",
+      "compile": "Compiling sketch...",
       "configureAndUpload": "Configurare e caricare",
       "createdArchive": "Creato l'archivio '{0}'.",
       "doneCompiling": "Compilazione completata.",
@@ -327,6 +329,7 @@
       "titleSketchbook": "Sketchbook",
       "upload": "Caricare",
       "uploadUsingProgrammer": "Carica tramite Programmatore",
+      "uploading": "Uploading...",
       "userFieldsNotFoundError": "Non è possibile trovare i campi utente per connettere la scheda",
       "verify": "Verifica",
       "verifyOrCompile": "Verifica/Compila"

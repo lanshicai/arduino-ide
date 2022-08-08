@@ -36,6 +36,7 @@
     "boardsManager": "Trình quản lý bo mạch",
     "bootloader": {
       "burnBootloader": "Nạp bootloader",
+      "burningBootloader": "Burning bootloader...",
       "doneBurningBootloader": "Hoàn tất nạp bootloader."
     },
     "burnBootloader": {
@@ -306,6 +307,7 @@
       "archiveSketch": "Nén sketch",
       "cantOpen": "Một thư mục tên \"{0}\" đã tồn tại. Không thể mở sketch.",
       "close": "Bạn có chắc muốn đóng sketch này không?",
+      "compile": "Compiling sketch...",
       "configureAndUpload": "Cấu hình và nạp",
       "createdArchive": "Đã tạo tệp nén '{0]'.",
       "doneCompiling": "Biên dịch hoàn tất.",
@@ -327,6 +329,7 @@
       "titleSketchbook": "Sketchbook",
       "upload": "Nạp",
       "uploadUsingProgrammer": "Nạp sử dụng Programmer",
+      "uploading": "Uploading...",
       "userFieldsNotFoundError": "Không thể tìm thấy các trường người dùng cho bo mạch đã kết nối",
       "verify": "Xác thực",
       "verifyOrCompile": "Xác thực/Biên dịch"

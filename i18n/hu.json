@@ -36,6 +36,7 @@
     "boardsManager": "Alaplap-kezelő",
     "bootloader": {
       "burnBootloader": "Bootloader égetése",
+      "burningBootloader": "Burning bootloader...",
       "doneBurningBootloader": "Bootloader égetés kész."
     },
     "burnBootloader": {
@@ -306,6 +307,7 @@
       "archiveSketch": "Vázlat/sketch archiválása",
       "cantOpen": "Már létezik a/az {0} nevű mappa. A vázlat/sketch nem nyitható meg. ",
       "close": "Biztosan bezárod a vázlatot/sketch-et? ",
+      "compile": "Compiling sketch...",
       "configureAndUpload": "Konfigurálás és feltöltés",
       "createdArchive": "Archívum létrehozva: {0}. ",
       "doneCompiling": "Fordítás kész.",
@@ -327,6 +329,7 @@
       "titleSketchbook": "Vázlatfüzet/sketchbook ",
       "upload": "Feltöltés",
       "uploadUsingProgrammer": "Feltöltés programozó segítségével",
+      "uploading": "Uploading...",
       "userFieldsNotFoundError": "Nem találhatók felhasználói adatok a csatlakoztatott kártyához",
       "verify": "Ellenőrzés",
       "verifyOrCompile": "Ellenőrzés/fordítás"

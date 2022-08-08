@@ -36,6 +36,7 @@
     "boardsManager": "Gestor de Targetes",
     "bootloader": {
       "burnBootloader": "Grava el carregador d'arrencada (Bootloader)",
+      "burningBootloader": "Burning bootloader...",
       "doneBurningBootloader": "S'ha acabat de gravar el carregador d'arrencada (Bootloader)."
     },
     "burnBootloader": {
@@ -306,6 +307,7 @@
       "archiveSketch": "Guardar programa",
       "cantOpen": "Ja existeix una carpeta anomenada \"{0}\". No es pot obrir el programa.",
       "close": "Esteu segur que voleu tancar el programa?",
+      "compile": "Compiling sketch...",
       "configureAndUpload": "Configura i puja",
       "createdArchive": "S'ha creat l'arxiu '{0}'.",
       "doneCompiling": "S'ha fet la compilació.",
@@ -327,6 +329,7 @@
       "titleSketchbook": "Quadern de programes",
       "upload": "Carrega",
       "uploadUsingProgrammer": "Càrrega mitjançant el programador",
+      "uploading": "Uploading...",
       "userFieldsNotFoundError": "No s'han trobat camps d'usuari per a la tarja connectada",
       "verify": "Verificar",
       "verifyOrCompile": "Verificar/Compilar"

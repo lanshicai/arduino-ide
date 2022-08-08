@@ -36,6 +36,7 @@
     "boardsManager": "Gestor de placas",
     "bootloader": {
       "burnBootloader": "Grabar Bootloader",
+      "burningBootloader": "Burning bootloader...",
       "doneBurningBootloader": "Finalizada la grabación del bootloader."
     },
     "burnBootloader": {
@@ -306,6 +307,7 @@
       "archiveSketch": "Archivo de programa",
       "cantOpen": "Ya existe una carpeta con el nombre \"{0}\". No se puede abrir.",
       "close": "¿Estás seguro de que quieres cerrar el sketch?",
+      "compile": "Compiling sketch...",
       "configureAndUpload": "Configurar y subir",
       "createdArchive": "Archivo '{0}' creado.",
       "doneCompiling": "Compilación completada.",
@@ -327,6 +329,7 @@
       "titleSketchbook": "Sketchbook",
       "upload": "Cargar",
       "uploadUsingProgrammer": "Cargar usando el programador",
+      "uploading": "Uploading...",
       "userFieldsNotFoundError": "No se pueden encontrar campos de usuario para la placa conectada",
       "verify": "Verificar",
       "verifyOrCompile": "Verificar/Compilar"

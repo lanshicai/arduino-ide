@@ -36,6 +36,7 @@
     "boardsManager": "开发板管理器",
     "bootloader": {
       "burnBootloader": "烧录引导程序",
+      "burningBootloader": "正在烧录引导程序。。。",
       "doneBurningBootloader": "完成烧录引导程序。"
     },
     "burnBootloader": {
@@ -295,7 +296,7 @@
       "carriageReturn": "回车",
       "message": "消息（{0}+Enter 将消息发送到 {2} 上的 {1}）",
       "newLine": "换行",
-      "newLineCarriageReturn": "两者都是 NL 和 CR",
+      "newLineCarriageReturn": "换行 和 回车 两者都是",
       "noLineEndings": "没有结束符",
       "notConnected": "未连接。选择要自动连接的开发板和端口。",
       "openSerialPlotter": "串口绘图仪",
@@ -306,6 +307,7 @@
       "archiveSketch": "项目存档",
       "cantOpen": "“{0}” 文件夹已存在。无法打开项目。",
       "close": "是否确实要关闭项目？",
+      "compile": "正在编译项目。。。",
       "configureAndUpload": "配置和上传",
       "createdArchive": "已创建存档 ‘{0}’。",
       "doneCompiling": "编译完成",
@@ -327,6 +329,7 @@
       "titleSketchbook": "项目文件夹",
       "upload": "上传",
       "uploadUsingProgrammer": "使用编程器上传",
+      "uploading": "正在上传。。。",
       "userFieldsNotFoundError": "找不到已连接开发板的用户字段",
       "verify": "验证",
       "verifyOrCompile": "验证/编译"

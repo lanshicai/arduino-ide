@@ -36,6 +36,7 @@
     "boardsManager": "Board-Verwaltung",
     "bootloader": {
       "burnBootloader": "Bootloader brennen",
+      "burningBootloader": "Burning bootloader...",
       "doneBurningBootloader": "Bootloader erfolgreich gebrannt."
     },
     "burnBootloader": {
@@ -306,6 +307,7 @@
       "archiveSketch": "Sketch archivieren",
       "cantOpen": "Ein Ordner mit dem Namen \"{0}\" ist bereits vorhanden. Der Sketch kann nicht geöffnet werden.",
       "close": "Sind Sie sicher, dass Sie diesen Sketch schließen möchten?",
+      "compile": "Compiling sketch...",
       "configureAndUpload": "Konfigurieren und hochladen",
       "createdArchive": "Archiv '{0}' erstellt.",
       "doneCompiling": "Kompilieren erfolgreich!",
@@ -327,6 +329,7 @@
       "titleSketchbook": "Sketchbook",
       "upload": "Hochladen",
       "uploadUsingProgrammer": "Mit Programmer hochladen",
+      "uploading": "Uploading...",
       "userFieldsNotFoundError": "User Fields für das angeschlossene Board nicht gefunden",
       "verify": "Überprüfen",
       "verifyOrCompile": "Überprüfen/Kompilieren"

@@ -36,6 +36,7 @@
     "boardsManager": "مدیریت برد ها",
     "bootloader": {
       "burnBootloader": "بارگذاری بوت لودر.",
+      "burningBootloader": "Burning bootloader...",
       "doneBurningBootloader": "اتمام بارگذاری بوت لودر."
     },
     "burnBootloader": {
@@ -306,6 +307,7 @@
       "archiveSketch": "آرشیو طرح",
       "cantOpen": "پوشه ای با نام \"{0}\" از قبل وجود دارد. طرح را نمی توان باز کرد",
       "close": "آیا شما می خواهید این طرح را ببندید؟",
+      "compile": "Compiling sketch...",
       "configureAndUpload": "پیکربندی و بارگذاری",
       "createdArchive": "آرشیو {0} ایجاد شد.",
       "doneCompiling": "پایان کامپایل کردن",
@@ -327,6 +329,7 @@
       "titleSketchbook": "منبع طرح ها",
       "upload": "آپلود",
       "uploadUsingProgrammer": "بارگذاری با استفاده از پروگرامر",
+      "uploading": "Uploading...",
       "userFieldsNotFoundError": "عدم یافت شدن فیلد های کاربر برای برد متصل",
       "verify": "تائید",
       "verifyOrCompile": "تائید / کامپایل"

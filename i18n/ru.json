@@ -36,6 +36,7 @@
     "boardsManager": "Менеджер плат",
     "bootloader": {
       "burnBootloader": "Записать Загрузчик",
+      "burningBootloader": "Прошивка загрузчика...",
       "doneBurningBootloader": "Прошивка бутлоадера завершена."
     },
     "burnBootloader": {
@@ -306,6 +307,7 @@
       "archiveSketch": "Архивировать скетч",
       "cantOpen": "Папка \"{0}\" уже существует. Невозможно открыть скетч.",
       "close": "Вы действительно хотите закрыть скетч?",
+      "compile": "Компиляция скетча...",
       "configureAndUpload": "Настроить и загрузить",
       "createdArchive": "Создать архив '{0}'.",
       "doneCompiling": "Компиляция завершена.",
@@ -327,6 +329,7 @@
       "titleSketchbook": "Альбом",
       "upload": "Загрузить на плату",
       "uploadUsingProgrammer": "Загрузить на плату при помощи программатора",
+      "uploading": "Загрузка...",
       "userFieldsNotFoundError": "Не могу найти пользовательские поля для подключенной платы",
       "verify": "Проверить",
       "verifyOrCompile": "Проверить/Скомпилировать"
