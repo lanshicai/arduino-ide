@@ -23,12 +23,7 @@ import {
   UploadUsingProgrammerResponse,
 } from './cli-protocol/cc/arduino/cli/commands/v1/upload_pb';
 import { ResponseService } from '../common/protocol/response-service';
-import {
-  NotificationServiceServer,
-  OutputMessage,
-  Port,
-  Status,
-} from '../common/protocol';
+import { OutputMessage, Port, Status } from '../common/protocol';
 import { ArduinoCoreServiceClient } from './cli-protocol/cc/arduino/cli/commands/v1/commands_grpc_pb';
 import { Port as GrpcPort } from './cli-protocol/cc/arduino/cli/commands/v1/port_pb';
 import { ApplicationError, CommandService, Disposable, nls } from '@theia/core';
@@ -55,9 +50,6 @@ export class CoreServiceImpl extends CoreClientAware implements CoreService {
 
   @inject(CommandService)
   private readonly commandService: CommandService;
-
-  @inject(NotificationServiceServer)
-  private readonly notificationService: NotificationServiceServer;
 
   async compile(options: CoreService.Options.Compile): Promise<void> {
     const coreClient = await this.coreClient;
@@ -390,7 +382,6 @@ export class CoreServiceImpl extends CoreClientAware implements CoreService {
     fqbn?: string | undefined;
     port?: Port | undefined;
   }): Promise<void> {
-    this.notificationService.notifyUploadInProgress(true);
     return this.monitorManager.notifyUploadStarted(fqbn, port);
   }
 
@@ -401,7 +392,6 @@ export class CoreServiceImpl extends CoreClientAware implements CoreService {
     fqbn?: string | undefined;
     port?: Port | undefined;
   }): Promise<Status> {
-    this.notificationService.notifyUploadInProgress(false);
     return this.monitorManager.notifyUploadFinished(fqbn, port);
   }
 

@@ -83,7 +83,6 @@ export class BoardsServiceProvider implements FrontendApplicationContribution {
 
   onStart(): void {
     this.notificationCenter.onUploadInProgress((value) => {
-      // TODO there may be race conditions doing this
       this.notifyUploadInProgress(value);
     });
 
